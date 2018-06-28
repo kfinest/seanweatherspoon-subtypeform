@@ -38,6 +38,6 @@ def xlpFormat():
 	print('\n\n\n')
 	print('          -------------------------------------------')
 	print('           Subtypestore Seanweatherspoon Raffle')
-	print('                    borrowed by kennyd                ')
+	print('                    forked by kennyd                ')
 	print('          -------------------------------------------')
 	print('\n')
